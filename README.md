@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessicakwilson
-- 👩‍💻 I’m a fourth-year student at Drexel University, majoring in Computer Engineering and minoring in Computer Science.
+- 👩‍💻 I’m a senior at Drexel University, majoring in Computer Engineering and minoring in Computer Science.
 - 💕 Hobbies: 
   - 🧶 Crocheting
   - 🌱 Taking care of my houseplants
